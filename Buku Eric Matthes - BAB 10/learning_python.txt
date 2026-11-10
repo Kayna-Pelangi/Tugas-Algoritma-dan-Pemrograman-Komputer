@@ -1,0 +1,3 @@
+In Python you can use libraries like pathlib to work with files.
+In Python you can handle exceptions to prevent crashes.
+In Python you can save user data permanently using the json module.
